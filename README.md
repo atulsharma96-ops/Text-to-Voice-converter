@@ -27,7 +27,10 @@ API: Web Speech Synthesis API (SpeechSynthesisUtterance)
 📂 Project Structure:
 
 📦 Text-to-Voice-Converter
+
  ┣ 📜 index.html
+ 
  ┣ 📜 style.css
 
  ┣ 📜 script.js
+
